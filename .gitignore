@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# Visual Stduio Folders and Files
+.vs
+Debug
