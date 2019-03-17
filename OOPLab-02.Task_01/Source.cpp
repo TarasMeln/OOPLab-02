@@ -39,7 +39,7 @@ public:
 	{
 		cout << "Символьний рядок 1 = " << str1 << endl;
 		cout << "К-сть символів: " << str1.size() << endl;
-		cout << "Символьний рядок 2 = " << b << endl;
+		cout << "Символьний рядок 2 = " << str2 << endl;
 		cout << "К-сть символів: " << str2.size() << endl << endl;
 		cout << "Символьний рядок 3 = " << str3 << endl;
 	}
